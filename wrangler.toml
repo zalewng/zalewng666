@@ -1,3 +1,12 @@
 name = "zalewng666"
 main = "_worker.js"
 compatibility_date = "2026-01-20"
+
+# 环境变量 u
+[vars]
+u = "5bffc4cc-7938-4c86-b31e-f2d709775c7e"
+
+# KV 命名空间绑定 C
+[[kv_namespaces]]
+binding = "C"
+id = "d34bd1a988ad405e9ee32081a88dba8c"
